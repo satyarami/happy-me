@@ -1,3 +1,4 @@
 new file
 
+add a line
 add a line with bug fix
